@@ -1,0 +1,135 @@
+İZMİR ANALİZİ - YEMEK & İÇECEK (15.10.2026)
+Mail listesine henüz bir değişiklik yapılmadı. Karar sende.
+Elle mail atılan 9 marka (Dodo Pizza, Coca-Cola, Dardanel, Red Bull, Lipton, Dimes, Ankara Makarna, Obsesso, Tada) bu analizin dışında.
+
+"Kaynak" sütunu:
+  doğrulandı  = bu araştırmada web kaynağıyla teyit edildi
+  genel bilgi = bilinen bir durum, bu araştırmada ayrıca teyit edilmedi
+
+
+==================================================================
+A) İZMİR MERKEZLİ - EN GÜÇLÜ ADAYLAR
+==================================================================
+Pınar Süt      | Yaşar Holding, İzmir üretim                      | doğrulandı (EBSO listesi)
+Pınar Su       | Genel merkez Bornova/İzmir                       | doğrulandı (KAP faaliyet raporu)
+Baydöner       | Genel merkez Konak/İzmir, 2007'de Balçova'da kuruldu | doğrulandı (KAP 2026 raporu)
+Özsüt          | 1938'de Kemeraltı'nda kuruldu, merkez İzmir      | doğrulandı
+Kahve Diyarı   | 2005'te İzmir'de kuruldu, genel merkez Konak     | doğrulandı (franchise listesi)
+
+
+==================================================================
+B) İZMİR'DE ŞUBE / FABRİKA VAR
+==================================================================
+HD İskender        | İzmir şubesi var (2020 iş ilanı)                 | doğrulandı (eski kaynak)
+Bereket Döner      | İzmir öncelikli büyüme şehri (2017)              | kısmen doğrulandı, güncel şube teyit edilmedi
+Gloria Jean's      | Optimum AVM ve Selçuk şubeleri, İzmir öncelikli il | doğrulandı
+Espressolab        | İzmir'de mağazaları var (iş ilanı)               | doğrulandı
+Golf Dondurma      | Tire ve Bodrum'da dağıtım ağı var (merkez İstanbul) | doğrulandı (iş ilanları)
+PepsiCo Türkiye    | Manisa fabrikası (İzmir'e yaklaşık 40 km)        | doğrulandı
+Domino's, McDonald's, TAB Gıda (Burger King, Popeyes, Arby's), Pizza Hut, Papa John's,
+Tavuk Dünyası, Mado, Karaca
+                   | İzmir AVM'lerinde ve caddelerinde şubeleri var   | genel bilgi
+Starbucks (Torbalı, Selçuk), Kahve Dünyası (Karşıyaka), Tchibo (Agora, Forum Bornova) | doğrulandı (sonradan)
+Simit Sarayı       | Sitedeki mağaza filtresinde İzmir var, adres teyit edilemedi | kısmen doğrulandı
+Kurukahveci Mehmet Efendi | İzmir mağazası yok (sadece Eminönü), online mağaza ve marketlerde satış var | doğrulandı
+
+
+==================================================================
+C) ULUSAL MARKA - İZMİR'DE AYRI BİRİMİ YOK AMA ÜRÜNLERİ İZMİR'DE SATILIYOR
+   (Ürün desteği kargo veya bayi üzerinden gelebilir, iptal gerekmez)
+==================================================================
+Yemek  : Ülker, Eti, Nestlé, Mondelez, Torku (Konya), Şölen, Elit, Bifa, Peyman, Haribo,
+         Algida, Sütaş (Bursa), İçim (Sakarya), Banvit (Balıkesir), Erpiliç (Bolu),
+         Kerevitaş, Tat Gıda, Züber, Fellas
+         Tadım       -> fabrikaları Gebze, Gaziantep, Kırıkkale (doğrulandı)
+         Yörükoğlu   -> fabrikası Antalya Döşemealtı (doğrulandı)
+İçecek : Monster (Coca-Cola dağıtıyor), Beypazarı (Ankara), Kızılay (Afyon), Uludağ (Bursa),
+         Sırma, Hayat Su, Erikli (Bursa), Abant (Bolu), Buzdağı, Juss, Tamek, Aroma,
+         Akmina, Doğuş Çay, Çaykur, Beta Tea, Ofçay, Doğadan (Rize/İstanbul),
+         JDE, Arzum Okka, Kurukahveci Mehmet Efendi
+         Kınık       -> Bursa İnegöl (İzmir'deki Kınık ilçesiyle ilgisi yok) (doğrulandı)
+         Sarıkız     -> Balıkesir
+         Freşa       -> fabrikaları Giresun ve Bursa (doğrulandı)
+         Sek Süt, Kardelen Su -> konum bilgisi bulunamadı
+
+
+==================================================================
+D) İPTAL ADAYLARI - İZMİR'DE VARLIĞI YOK VEYA BELİRSİZ
+==================================================================
+Karaköy Güllüoğlu | Sadece İstanbul'da 2 mağazası var, kargo gönderiyor | doğrulandı (resmi site)
+Karafırın         | Mağaza listesinde sadece İstanbul ve Katar var       | doğrulandı (resmi site)
+Pizza Lazza       | İzmir şubesi bulunamadı, öncelikli şehirleri İstanbul, Ankara, Bursa, Kocaeli, Tekirdağ | doğrulandı
+Little Caesars    | Sitesi bakımda, Türkiye'deki güncel durumu belirsiz  | belirsiz
+Robert's Coffee   | İzmir şubesi bulunamadı (Antalya'da şube var)        | belirsiz
+Niğde Gazozu      | Niğde'nin yerel markası, İzmir'de satılıp satılmadığı belirsiz | belirsiz
+Çamlıca Gazoz     | İzmir'de satıldığına dair bilgi bulunamadı           | belirsiz
+Mishka            | Böyle bir kafe zinciri tespit edilemedi              | bulunamadı
+Akşeker Gıda      | Böyle bir firma tespit edilemedi                     | bulunamadı
+Alsancak Unlu Mamulleri | Bu isimde bir firma bulunamadı (en yakın: Alsancak Dostlar Fırını). Not: bu marka ilk taramada listeye hiç alınmamıştı.
+
+
+==================================================================
+E) LİSTENDE OLMAYAN İZMİR FİRMALARI (ÖNERİ - EKLENMEDİ)
+==================================================================
+-- Restoran / kafe zincirleri (İzmir çıkışlı) --
+Pasaport Pizza       | 1998'de İzmir Pasaport'ta kuruldu, 200+ şube
+Terra Pizza          | 1995'te İzmir'de kuruldu, 44 ilde 140 restoran
+Pizza Locale         | İzmir kuruluşlu pizza zinciri
+Pizza Pizza          | İzmir doğumlu pizza zinciri
+Panino Pizza         | İzmir merkezli
+Coffeemania          | 2009'da İzmir'de kuruldu
+Gönül Kahvesi        | İzmir menşeli, en eski franchise kahve zincirlerinden
+Komşu Kahve          | İzmir merkezli (Bisquitte restoranları da onların)
+Konyalı Ahmet Usta   | 2007'de Gaziemir'de kuruldu
+Kumru Fırın          | Merkez Çeşme
+
+-- Gıda üreticileri --
+Abalıoğlu Lezita     | Kemalpaşa, EBSO sıralamasında İzmir'in 8. büyük sanayi kuruluşu (tavuk)
+Kristal Yağ          | 1938'de İzmir'de kuruldu, zeytinyağı (Arkas Holding)
+Tukaş                | Genel müdürlük ve fabrika Torbalı (salça, konserve, sos)
+Euro Gıda            | İzmir; İzmir Ekonomi Üniversitesi ile iş birliği protokolü var (üniversitelere açık bir firma)
+Pınar Et             | Yaşar Holding, İzmir (genel bilgi)
+Tariş                | İzmir merkezli tarım birlikleri: zeytinyağı, üzüm, incir (genel bilgi)
+
+-- İçecek --
+Şaşal Su             | Menderes, İzmir Büyükşehir Belediyesi'nin şirketi İzdoğa üretiyor (94 yıllık İzmir markası)
+Mercan Gazoz         | İzmir'in yerel gazozu
+
+-- Pastane / yerel (tek mekan, küçük ölçek) --
+Reyhan Pastanesi     | Alsancak, 1965
+Dostlar Fırını       | Alsancak, boyoz
+
+-- Bilerek eklenmedi --
+Türk Tuborg (bira, alkol). Agromey, McCormick Kütaş, Safe Spice gibi firmalar baharat ve hammadde üreticisi, son tüketiciye ürün desteğine uygun değil.
+
+
+==================================================================
+KAYNAKLAR
+==================================================================
+Baydöner merkez      : https://borsacoo.com/firma/BYDNR/bildirimler , KAP faaliyet raporu 2026/6
+Özsüt                : https://www.ekonomist.com.tr/makale/izmirli-sirketler-dunyaya-aciliyor-3723
+Pınar Su             : https://www.dunya.com/finans/borsa/sirket-bilgileri/pinsu-pinar-su-ve-icecek-sanayi-ve-ticaret-as
+Kahve Diyarı ve İzmir zincirleri : https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki_restoran_zincirleri_listesi
+                       https://coffeemania.com/franchise-veren-firmalar-izmir-ege-bolgesi/
+                       https://www.paradergi.com.tr/sektorler/2022/08/08/franchise-veren-en-unlu-pizzacilar
+Yörükoğlu            : https://antalya.edu.tr/en/events/excursion-to-yorukoglu-sut-ve-sut-urunleri-san-tic-a-s
+Freşa                : https://www.kariyer.net/firma-profil/fresa-55541-38954
+Kınık                : https://www.kariyer.net/firma-profil/kinik-maden-sulari-7060-31938
+Tadım                : https://www.kariyer.net/firma-profil/tadim-gida-maddeleri-san-ve-tic-as-25269-16772
+Golf Dondurma        : https://www.yenibiris.com/firma/golf-dondurma/298144
+HD İskender          : https://www.kariyer.net/is-ilani/hd-restaurant-isletmeleri-turizm-ins-tic-ve-san-insan-kaynaklari-stajyeri-2486066
+Bereket Döner        : https://www.capital.com.tr/sektorler/gida/bu-yil-sonunda-ilk-500-sirketten-biri-olacagiz
+Pizza Lazza          : https://www.bayimolurmusun.com.tr/en/news/franchise-news/pizzalazza-turkeys-dynamic-and-reliable-pizza-brand
+Karaköy Güllüoğlu    : https://www.karakoygulluoglu.com/en/aboutus
+Gloria Jean's        : https://www.ekonomist.com.tr/makale/kahve-zincirlerinde-franchise-yarisi-77787
+Espressolab          : https://www.kariyer.net/is-ilani/espressolab-barista-4389477
+Robert's Coffee      : https://invest.gov.tr/en/news/news-from-turkey/pages/170320083677.aspx
+Niğde Gazozu         : https://kureansiklopedi.com/tr/detay/nigde-gazozu-f5a04
+EBSO / Lezita        : https://www.aa.com.tr/tr/isdunyasi/gida/lezita-ebsonun-izmirin-en-buyuk-100-sanayi-kurulusu-arastirmasinda-8-oldu/702771
+                       https://www.izgazete.net/izmirin-en-buyuk-100-sanayi-kurulusu-aciklandi
+Kristal Yağ          : https://www.ekonomist.com.tr/makale/kristal-markasini-dunyaya-aciyor-7905
+Tukaş                : https://kap.org.tr/tr/sirket-bilgileri/genel/1101-tukas-gida-sanayi-ve-ticaret-a-s
+Euro Gıda            : https://fecs.ieu.edu.tr/tr/euro-gida
+Şaşal Su             : https://www.iscihaber.net/gundem/izmirin-94-yillik-markasi-sasal-suya-uluslararasi-odul/244128
+Mercan Gazoz         : https://api.theworld.org/stories/2024/04/23/a-local-soda-is-making-a-comeback-in-turkey
+Reyhan / Dostlar     : https://wanderlog.com/place/details/9580623/reyhan-pastanesi , https://yemek.com/izmirin-ayakustu-lezzetleri/

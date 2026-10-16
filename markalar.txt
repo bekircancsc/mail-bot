@@ -1,0 +1,358 @@
+DEU CS-AI sponsor arayışı ve önerileri
+
+
+
+1. EĞİTİM (50 Şirket)
+Akademi, veri bilimi, yazılım okulları ve öğrenci gelişim programlarıyla destek verebilecek büyük eğitim ve teknoloji platformları:
+- [x] Patika.dev  - mail gönderildi - Ekibe Gönderdi
+- [x] Kodluyoruz - mail gönderildi 
+- [x] Miuul - mail gönderildi 
+- [x] Techcareer.net - mail gönderildi 
+- [ ] BTK Akademi - web
+- [x] DataCamp - başvuruldu - olumlu 
+- [ ] Pluralsight
+- [ ] akın dil
+- [ ] Scrimba
+- [x] Veri Bilimi Okulu - mail gönderildi 
+- [ ] pupilica
+- [ ] TechPro Education
+- [ ] Global IT
+- [ ] SmartPro Yazılım Akademisi
+- [ ] Navlungo Akademi
+- [ ] İstanbul Veri Enstitüsü
+- [x] Yapay Zeka Fabrikası - mail gönderildi 
+- [ ] KoçSistem Akademi
+- [ ] SabancıDx Dijital Akademi
+- [ ] Türk Telekom Akademi
+- [ ] Turkcell Geleceği Yazanlar
+- [ ] Vodafone Gençlik Kulübü
+- [ ] Huawei Türkiye Ar-Ge Akademi
+- [ ] Ericsson Academy
+- [ ] Microsoft Learn Student Ambassadors
+- [ ] Google Developers / Grow with Google
+- [ ] AWS Educate Türkiye
+- [ ] IBM SkillsBuild
+- [ ] Cisco Networking Academy
+- [ ] Oracle Academy
+- [ ] Red Hat Academy
+- [ ] Intel Developer Zone
+- [ ] NVIDIA Deep Learning Institute
+- [ ] JetBrains Student Program
+- [ ] GitHub Education
+- [ ] Atlassian Community
+- [ ] Unity Learn
+- [ ] Autodesk Education
+- [ ] Siemens Digital Industries Software
+- [ ] Dassault Systèmes Eğitim Programları
+- [ ] Logo Yazılım Akademi
+- [ ] İnnova Teknoloji Eğitimleri
+- [ ] OBSS Tech Academy
+- [ ] Kuveyt Türk Hackathon & Eğitim Platformu
+- [ ] Akbank Gençlik Akademisi
+- [ ] Garanti BBVA Teknoloji Kampüsü
+- [ ] İş Bankası Hackathon ve Eğitim Fonları
+- [ ] QNB Finansbank İnovasyon Merkezi
+- [ ] İTÜ ARI Teknokent Eğitim Programları
+
+
+2. YEMEK (50 Şirket)
+Hackathon'lar, kodlama geceleri ve uzun soluklu etkinlikler için doyurucu ana yemek ve atıştırmalık desteği sağlayabilecek büyük gıda/restoran devleri:
+- [ ] Dominos Pizza Türkiye
+- [x] Dodo Pizza - mail gönderildi (elle)
+- [-] Little Caesars Türkiye - iptal (Türkiye'deki durumu belirsiz)
+- [ ] Papa John's Türkiye
+- [ ] Pizza Hut Türkiye
+- [-] Pizza Lazza - iptal (İzmir'de şubesi yok)
+- [ ] Burger King (TAB Gıda)
+- [ ] McDonald's Türkiye (Anadolu Grubu)
+- [ ] Popeyes (TAB Gıda)
+- [ ] Arby's (TAB Gıda)
+- [ ] Usta Dönerci (TAB Gıda)
+- [-] Tavuk Dünyası - iptal (listeden çıkarıldı)
+- [-] HD İskender - iptal (listeden çıkarıldı)
+- [ ] Baydöner
+- [-] Bereket Döner - iptal (listeden çıkarıldı)
+- [ ] Simit Sarayı
+- [ ] Mado
+- [-] Karaköy Güllüoğlu - iptal (İzmir'de şubesi yok)
+- [ ] Ülker / Yıldız Holding
+- [ ] Eti Gıda
+- [ ] Nestlé Türkiye
+- [ ] Mondelez International Türkiye
+- [ ] Torku (Konya Şeker)
+- [ ] Şölen Çikolata
+- [ ] Elit Çikolata
+- [ ] Bifa Bisküvi
+- [ ] Tadım Gıda
+- [ ] Züber
+- [ ] Fellas Protein
+- [ ] Peyman
+- [ ] Haribo Türkiye
+- [ ] Kent (Mondelez)
+- [ ] Algida (Unilever)
+- [ ] Golf Dondurma
+- [ ] Sütaş Süt Ürünleri
+- [ ] Pınar Süt (Yaşar Holding)
+- [ ] İçim Süt (Ülker)
+- [ ] Yörükoğlu Süt
+- [ ] Akşeker Gıda
+- [ ] Banvit (Tyson/Brazilska ortaklığı)
+- [ ] Erpiliç
+- [ ] Kerevitaş (SuperFresh)
+- [ ] Tat Gıda
+- [x] Dardanel Önentaş - mail gönderildi (elle)
+- [ ] Sek Süt (Kocaeliler)
+- [ ] Mishka / Yerel Büyük Kafe Zincirleri
+- [-] Karafırın - iptal (İzmir'de şubesi yok)
+- [ ] Alsancak Unlu Mamulleri
+- [ ] Özsüt
+- [ ] Kahve Diyarı (Yemek ve toplantı menüleri)
+- [x] Ankara Makarna - mail gönderildi (elle)
+- [x] Tada (soğuk sandviç) - mail gönderildi (elle)
+- [ ] Pasaport Pizza (İzmir - sonradan eklendi)
+- [ ] Terra Pizza (İzmir - sonradan eklendi)
+- [ ] Lezita (Abalıoğlu) (İzmir - sonradan eklendi)
+- [-] Kristal Yağ (İzmir - sonradan eklendi) - iptal (listeden çıkarıldı)
+- [-] Euro Gıda (İzmir - sonradan eklendi) - iptal (listeden çıkarıldı)
+- [-] Tariş (İzmir - sonradan eklendi) - iptal (listeden çıkarıldı)
+
+
+3. İÇECEK (50 Şirket)
+Enerji içecekleri, soğuk-sıcak içecekler ve su/maden suyu kategorisindeki büyük üreticiler:
+- [x] Red Bull Türkiye - mail gönderildi (elle)
+- [ ] Monster Energy Türkiye
+- [x] Burn Energy Drink - Coca-Cola'ya gönderildi
+- [x] Coca-Cola İçecek (Cappy, Damla, Fanta vb.) - mail gönderildi (elle)
+- [ ] PepsiCo Türkiye (Lipton Ice Tea, Pepsi, 7Up)
+- [x] Dimes Gıda - mail gönderildi (elle)
+- [ ] Beypazarı Maden Suyu
+- [ ] Kızılay Maden Suyu
+- [ ] Uludağ İçecek
+- [ ] Sırma Grup
+- [ ] Erikli / Nestlé Waters
+- [-] Hayat Su (Danone) - Sırma Grup ile birleştirildi
+- [ ] Pınar Su (Yaşar Holding)
+- [ ] Abant Su
+- [ ] Buzdağı Su
+- [ ] Kardelen Su
+- [x] Damla Su (Coca-Cola) - Coca-Cola'ya gönderildi
+- [ ] Kınık Maden Suyu
+- [ ] Beypazarı Doğal Mineralli Su
+- [ ] Sarıkız Maden Suyu
+- [ ] Freşa İçecek
+- [-] Niğde Gazozu - iptal (İzmir'de varlığı belirsiz)
+- [-] Çamlıca Gazoz - iptal (İzmir'de varlığı belirsiz)
+- [ ] Uludağ Gazoz
+- [ ] Espressolab
+- [ ] Kahve Dünyası
+- [ ] Starbucks Türkiye (Alshaya Group)
+- [ ] Gloria Jean's Coffees
+- [ ] Coffy (TAB Gıda)
+- [-] Robert's Coffee - iptal (İzmir'de varlığı belirsiz)
+- [ ] Tchibo Türkiye
+- [-] Jacobs Douwe Egberts (JDE Türkiye) - iptal (global İngilizce medya adresi)
+- [ ] Kurukahveci Mehmet Efendi
+- [ ] Arzum Okka (Türk kahvesi makineleri ve ikram etkinlikleri)
+- [ ] Karaca Hatır (İkram desteği)
+- [ ] Doğuş Çay ve Gıda
+- [ ] Çaykur
+- [x] Lipton Türkiye - mail gönderildi (elle)
+- [ ] Beta Tea
+- [ ] Ofçay
+- [ ] Doğadan Gıda
+- [x] Fuse Tea (Coca-Cola) - Coca-Cola'ya gönderildi
+- [ ] Ice Tea Lipton (PepsiCo)
+- [x] Cappy Pulpy - Coca-Cola'ya gönderildi
+- [ ] Juss İçecek
+- [ ] Tamek Gıda
+- [ ] Aroma Meyve Suyu
+- [ ] Mey İçki (Alkolsüz etkinlik alternatifleri / Kurumsal destekler)
+- [ ] Kızılay İçecek Grubu
+- [ ] Akmina Maden Suyu (Danone)
+- [x] Obsesso - mail gönderildi (elle)
+- [ ] Coffeemania (İzmir - sonradan eklendi)
+- [-] Gönül Kahvesi (İzmir - sonradan eklendi) - iptal (listeden çıkarıldı)
+- [-] Komşu Kahve (İzmir - sonradan eklendi) - iptal (listeden çıkarıldı)
+- [ ] Şaşal Su (İzdoğa) (İzmir - sonradan eklendi)
+
+
+
+4. MEKAN (50 Şirket)
+Büyük çaplı konferanslar, hackathon'lar, zirveler veya topluluk buluşmaları için kampüs dışı dev salonlar, teknoparklar ve etkinlik merkezleri:
+- [ ] İzmir Teknopark (İzmir Bilimpark)
+- [ ] İZMİRTEK (İzmir Yüksek Teknoloji Enstitüsü Teknopark)
+- [ ] İzQ Girişimcilik Merkezi (Alsancak)
+- [ ] Ahmed Adnan Saygun Sanat Merkezi (AASSM)
+- [ ] Sabancı Kültür Merkezi (İzmir)
+- [ ] Dokuz Eylül Üniversitesi Sabancı Kültür Sarısı
+- [ ] İzmir Ticaret Odası (İTO) Meclis Salonu ve Etkinlik Alanları
+- [ ] Ege Bölgesi Sanayi Odası (EBSO) Konferans Salonları
+- [ ] Fuar İzmir (İZFAŞ - Gaziemir)
+- [ ] Ahmed Adnan Saygun Toplantı Salonları
+- [ ] Swissôtel Büyük Efes İzmir (Büyük kurumsal zirve salonları)
+- [ ] Hilton İzmir / Hampton by Hilton Konferans Salonları
+- [ ] Mövenpick Hotel Izmir Etkinlik Alanları
+- [ ] Wyndham Grand İzmir Özdilek
+- [ ] Renaissance Izmir Hotel
+- [ ] Kaya İzmir Thermal & Convention
+- [ ] Ramada Encore by Wyndham Izmir
+- [ ] İnciraltı Bahar Etkinlik Alanları
+- [ ] Ahmed Adnan Saygun Sergi Salonları
+- [ ] İzmir Mimarlık Merkezi
+- [ ] Arkas Sanat Merkezi (Özel etkinlik buluşmaları)
+- [ ] Havagazı Fabrikası Kültür Merkezi (İzmir Büyükşehir Belediyesi)
+- [ ] Tarihi Alsancak Tekel Fabrikası Kültür Kompleksi (İzmir Kültür Sanat Fabrikası)
+- [ ] Türkan Saylan Kültür Merkezi
+- [ ] Narlıdere Atatürk Kültür Merkezi
+- [ ] Bornova Belediyesi Ayfer Ferah Kültür Merkezi
+- [ ] Buca Belediyesi Sosyal Yaşam Merkezi Konferans Salonları
+- [ ] Karşıyaka Hikmet Şimşek Sanat Merkezi
+- [ ] Ahmed Adnan Saygun Fuaye Alanları
+- [ ] İzmir Arena (Bayraklı etkinlik alanı)
+- [ ] Arena Port İzmir
+- [ ] Tepekule Kongre ve Sergi Merkezi
+- [ ] İzmir Sifa Kongre Merkezi
+- [ ] Ege Üniversitesi Atatürk Kültür Merkezi (AKM)
+- [ ] Yaşar Üniversitesi Selçuk Yaşar Kampüsü Konferans Salonları
+- [ ] İzmir Ekonomi Üniversitesi Kongre Merkezi
+- [ ] İzQ İnovasyon Merkezi
+- [ ] BAMBU Girişim Ofisi Etkinlik Alanları (DEÜ)
+- [ ] İZKA (İzmir Kalkınma Ajansı) Toplantı Salonları
+- [ ] Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) İzmir Merkezi
+- [ ] Deneyap Atölyeleri İzmir Alanları
+- [ ] Bilim İzmir (Müze ve Etkinlik Merkezi)
+- [ ] İzmir Optimum AVM Etkinlik Alanları
+- [ ] İstinyePark İzmir Etkinlik Sahnesi
+- [ ] Forum Bornova Etkinlik Alanları
+- [ ] Mavibahçe Açık Hava Sahnesi ve Salonları
+- [ ] Hilltown Karşıyaka AVM Etkinlik Alanları
+- [ ] Point Bornova Sahne ve Etkinlik Alanları
+- [ ] Aqua Florya / Büyük Kurumsal AVM Salonları (İstanbul bağlantılı projeler için)
+- [ ] Zorlu PSM (İstanbul ortaklı dev zirveler için)
+
+
+
+5. TEKNİK GEZİ (50 Şirket)
+Bilgisayar bilimi ve yapay zeka öğrencilerinin yerinde incelemek, Ar-Ge merkezlerini görmek ve staj/kariyer ağı kurmak için teknik gezi düzenleyebileceği dev merkezler:
+- [ ] Aselsan (Ankara / İzmir Ar-Ge)
+- [ ] Havelsan (Ankara Teknopark)
+- [ ] Baykar (İstanbul Teknoloji Merkezi)
+- [ ] TUSAŞ / TAI (Ankara Uzay ve Havacılık)
+- [ ] TÜBİTAK BİLGEM (Kocaeli / Ankara)
+- [ ] TÜBİTAK UZAY
+- [ ] Siemens Türkiye (İstanbul Teknoloji Merkezi)
+- [ ] Huawei Türkiye Ar-Ge Merkezi (İstanbul)
+- [ ] Ericsson Türkiye R&D
+- [ ] Netaş Ar-Ge (İstanbul)
+- [ ] Etiya Yazılım Ar-Ge Merkezi (İzmir/İstanbul)
+- [ ] Logo Yazılım Ar-Ge Merkezi (Kocaeli/İzmir)
+- [ ] İnnova Bilişim Çözümleri (Türk Telekom Grubu)
+- [ ] KoçSistem Ar-Ge ve Veri Merkezi
+- [ ] SabancıDx Dijital Teknoloji Merkezi
+- [ ] Garanti BBVA Teknoloji (İstanbul)
+- [ ] Akbank Teknoloji (İstanbul)
+- [ ] Türkiye İş Bankası Maximiles / Softtech (İstanbul/İzmir)
+- [ ] Yapı Kredi Teknoloji
+- [ ] QNB Finansbank Teknoloji Üssü
+- [ ] DenizBank Intertech
+- [ ] Papara Teknoloji Ofisi
+- [ ] Insider Global Ar-Ge Merkezi (İstanbul/İzmir)
+- [ ] Getir Tech (İstanbul)
+- [ ] Trendyol Tech (İstanbul / İzmir Ar-Ge)
+- [ ] Hepsiburada Tech
+- [ ] Çiçeksepeti Teknoloji
+- [ ] Ford Otosan Ar-Ge Merkezi (Kocaeli/İstanbul)
+- [ ] Tofaş Ar-Ge ve Dijital Fabrika (Bursa)
+- [ ] Oyak Renault Akıllı Üretim Merkezi
+- [ ] Mercedes-Benz Otomotiv Ar-Ge ve Yazılım Merkezi (İstanbul/Ankara)
+- [ ] Bosch Türkiye Ar-Ge ve IoT Merkezi (Bursa/İzmir)
+- [ ] Borusan Cat Dijital Dönüşüm Merkezi
+- [ ] Şişecam Bilgi Teknolojileri ve Ar-Ge Merkezi
+- [ ] Eczacıbaşı Bilgi Piyasaları
+- [ ] SOCAR Türkiye Dijital İkiz ve Veri Merkezi (İzmir)
+- [ ] Enerjisa Üretim Kontrol ve Otomasyon Merkezi
+- [ ] GDZ Elektrik Şebeke Yönetim ve SCADA Merkezi (İzmir)
+- [ ] TPAO Sismik Veri İşleme Merkezi
+- [ ] BOTAŞ Scada ve Otomasyon Merkezi
+- [ ] Roketsan Ar-Ge ve Yazılım Müdürlüğü (Ankara)
+- [ ] STM Savunma Teknolojileri Mühendislik
+- [ ] Havelsan Simülasyon Merkezleri
+- [ ] Profen Uydu Yer İstasyonları ve Ar-Ge
+- [ ] Netcad Yazılım Ar-Ge Merkezi (Ankara/İzmir)
+- [ ] İ̇zQ Girişimcilik ve Kuluçka Merkezi (İzmir)
+- [ ] Vestel Beyaz Eşya ve Elektronik Ar-Ge Merkezi (Manisa - İzmir'e çok yakın, geziler için ideal)
+- [ ] Schneider Electric Akıllı Fabrika ve Ar-Ge Merkezi (Manisa/İzmir)
+- [ ] CMS Jant Sanayi Bilgi Teknolojileri ve Otomasyon (İzmir)
+- [ ] Petkim Petrokimya Holding Dijitalleşme ve Otomasyon Birimi (İzmir-Aliağa)
+
+
+
+
++6. (Eksik Kategori Önerisi) DONANIM, ÖDÜL & YAZILIM (50 Şirket)
+Notlarında mutlaka bulunması gereken; hackathon ödülleri (klavye, mouse, kulaklık) ve yazılım lisansları (JetBrains, GitHub vb.) sağlayan devler:
+- [ ] Monster Notebook
+- [ ] İncehesap
+- [ ] GameGaraj
+- [ ] Logitech Türkiye
+- [ ] ASUS Türkiye (ROG Ekosistemi)
+- [ ] MSI Türkiye
+- [ ] Gigabyte Türkiye
+- [ ] Razer Türkiye
+- [ ] Corsair Türkiye
+- [ ] SteelSeries Türkiye
+- [ ] HyperX Türkiye
+- [ ] HP Türkiye (Omen serisi)
+- [ ] Lenovo Türkiye (Legion ekosistemi)
+- [ ] Dell Technologies Türkiye
+- [ ] Acer Türkiye (Predator ekosistemi)
+- [ ] Apple Türkiye (Eğitim ve geliştirici destekleri)
+- [ ] Samsung Türkiye
+- [ ] Huawei Türkiye (Donanım ve ekosistem)
+- [ ] Xiaomi Türkiye
+- [ ] Oppo Türkiye
+- [ ] TP-Link Türkiye (Ağ ve yönlendirici ödülleri)
+- [ ] D-Link Türkiye
+- [ ] Netgear
+- [ ] JBL / Harman Türkiye (Kulaklık ödülleri)
+- [ ] Sennheiser Türkiye
+- [ ] Audio-Technica Türkiye
+- [ ] Philips Türkiye
+- [ ] Anker Türkiye (Powerbank ve şarj cihazı ödülleri)
+- [ ] Ugreen Türkiye
+- [ ] Baseus Türkiye
+- [ ] Spigen Türkiye
+- [ ] Xiaomi Ecosystem / Mi Store
+- [ ] Teknosa (Kurumsal hediye çeki)
+- [ ] MediaMarkt Türkiye (Kurumsal sponsorluk)
+- [ ] Vatan Bilgisayar (Kurumsal iş birliği)
+- [ ] JetBrains (Ücretsiz IDE Lisansları)
+- [ ] GitHub (Student Developer Pack & Donanım)
+- [ ] Microsoft (Donanım ve yazılım paketleri)
+- [ ] Google (Geliştirici kitleri ve donanım destekleri)
+- [ ] Arduino LLC / Robotistan (Maker donanımları)
+- [ ] Direnc.net (Elektronik komponent ödülleri)
+- [ ] Pusula Yayıncılık (Bilgisayar ve yapay zeka kitapları)
+- [ ] Kodlab Yayın Dağıtım
+- [ ] Seçkin Yayıncılık (Akademik kitaplar)
+- [ ] D&R (Kurumsal Hediye Çeki)
+- [ ] Remzi Kitabevi
+- [ ] İnkılap Kitabevi
+- [ ] Kitapyurdu (Kurumsal iş birliği)
+- [ ] İdefix
+- [ ] Trendyol Hediye Kartı Havuzu
+
+
+
+
+
+Sponsorluk Koordinatörü
+
+Dokuz Eylül Üniversitesi Bilgisayar Bilimleri ve Yapay Zeka Topluluğu (DEÜ CS-AI)
+
+
+
+DEU CS-AI Instagram hesabı:
+https://www.instagram.com/deucsai?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw== 
+
+Topluluğumuz hakkında daha fazla bilgi: 
+https://ogrencitopluluklari.deu.edu.tr/bilgisayar-bilimleri-ve-yapay-zeka-ogrenci-toplulugu/

@@ -1,0 +1,103 @@
+!!! ESKİ DOSYA - ilk taramadan kalma, güncel değil. Güncel liste: marka_listesi.csv (bot oradan çalışır) !!!
+
+BULUNAN MAİL ADRESLERİ - YEMEK & İÇECEK
+Tarama tarihi: 15.10.2026 (markaların resmi sitelerinden ve KAP kayıtlarından)
+
+Güven:  YÜKSEK = genel/kurumsal/pazarlama adresi
+        ORTA   = müşteri hizmetleri, tüketici hattı veya kurumsal satış adresi (yönlendirilmesi gerekebilir)
+        DÜŞÜK  = ilgisiz bir birim (sipariş, global medya vb.)
+
+Format: Marka | Mail | Güven | Kaynak
+
+
+================ YEMEK ================
+
+Dodo Pizza | hello@dodopizza.com.tr | YÜKSEK | https://dodopizza.com.tr/
+Tavuk Dünyası | info@tavukdunyasi.com | YÜKSEK | https://www.tavukdunyasi.com/hakkimizda/iletisim/
+HD İskender | bilgi@hdiskender.com | YÜKSEK | https://www.hdiskender.com/
+Bereket Döner | info@bereketdoner.com.tr | YÜKSEK | https://www.bereketdoner.com.tr/
+Simit Sarayı | info@simitsarayi.com | YÜKSEK | https://www.simitsarayi.com/iletisim
+Karaköy Güllüoğlu | onlinesiparis@karakoygulluoglu.com | DÜŞÜK | https://www.karakoygulluoglu.com/
+Mondelez Türkiye (Kent dahil) | mondelezturkey@mdlz.com | YÜKSEK | https://www.mondelezinternational.com/turkey/
+Torku (Konya Şeker) | konyaseker@konyaseker.com.tr | YÜKSEK | https://torku.com.tr/bize-ulasin
+Şölen Çikolata | info@solen.com.tr | YÜKSEK | https://www.solen.com.tr/iletisim
+Bifa Bisküvi | bifa@bifa.com.tr | YÜKSEK | https://www.bifa.com.tr/
+Tadım Gıda | musteri.hizmetleri@tadim.com | ORTA | https://www.tadim.com.tr/
+Peyman | peyman@peyman.com.tr | YÜKSEK | https://www.peyman.com.tr/Bize-Ulasin
+Pınar Süt | info@pinar.com.tr | YÜKSEK | https://www.pinar.com.tr (Bize Ulaşın)
+İçim Süt (Ak Gıda / Lactalis) | info@tr.lactalis.com | YÜKSEK | https://www.akgida.com.tr/iletisim/
+Sek Süt | pazarlama@seksut.com.tr | YÜKSEK | https://www.sek.com.tr/iletisim
+Dardanel | dardanel@dardanel.com.tr | YÜKSEK | KAP şirket kaydı
+Karafırın | info@karafirin.com.tr | YÜKSEK | https://www.karafirin.com.tr/iletisim/bize-ulasin
+Kahve Diyarı | info@kahvediyari.com | YÜKSEK | https://kahvediyari.com/
+
+
+================ İÇECEK ================
+
+Coca-Cola İçecek (Cappy, Damla, Fanta, Burn, Fuse Tea) | iletisimmerkezi@coca-cola.com | ORTA | https://www.coca-cola.com/tr/tr/about-us/contact-us
+Sırma Grup | info@sirmagrup.com | YÜKSEK | https://www.sirma.com.tr/
+Hayat Su | tuketici@hayatsu.com.tr | ORTA | https://www.hayatsu.com.tr/iletisim  (not: sitedeki KEP adresi Sırma Grup'a ait, aynı grup olabilir)
+Pınar Su | info@pinarsu.com.tr | YÜKSEK | https://www.pinarsuveicecek.com.tr/tr/iletisim
+Abant Su | info@abant.com.tr | YÜKSEK | https://www.abant.com.tr/
+Kardelen Su | info@kardelensu.com.tr | YÜKSEK | https://www.kardelensu.com/iletisim
+Sarıkız Maden Suyu | info@sarikiz.com.tr | YÜKSEK | https://www.sarikiz.com.tr/
+Freşa İçecek | fresa@fresa.com.tr | YÜKSEK | https://www.fresa.com.tr/tr/bize-ulasin
+Niğde Gazozu | info@nigdegazozu.com.tr | YÜKSEK | https://www.nigdegazozu.com.tr/
+Çamlıca Gazoz | info@camlica.com.tr | YÜKSEK | https://camlica.com.tr/
+Espressolab | info@espressolab.com | YÜKSEK | https://espressolab.com
+Kahve Dünyası | musterihizmetleri@kahvedunyasi.com | ORTA | https://www.kahvedunyasi.com/
+Starbucks Türkiye (Alshaya) | info-tr@alshaya.com | YÜKSEK | https://www.starbucks.com.tr/  (alternatif: kurumsalsatis.tur@alshaya.com)
+Gloria Jean's Coffees | iletisim@gloriajeans.com.tr | YÜKSEK | https://gloriajeans.com.tr/  (alternatif: info@gloriajeans.com.tr)
+Robert's Coffee | info@robertscoffee.com.tr | YÜKSEK | https://www.robertscoffee.com.tr/
+Tchibo Türkiye | kurumsalsatis@tchibo.com.tr | ORTA | https://www.tchibo.com.tr/c/kurumsal-satis-bilgi-sayfasi  (alternatif: bilgi@tchibo.com.tr)
+JDE Türkiye (Jacobs) | media@jdepeets.com | DÜŞÜK | https://www.jdepeets.com/media/media-contacts/  (global medya adresi)
+Kurukahveci Mehmet Efendi | mehmetefendi@mehmetefendi.com | YÜKSEK | https://www.mehmetefendi.com/iletisim
+Arzum Okka | musterihizmetleri@arzum.com | ORTA | https://www.arzum.com.tr/
+Doğuş Çay | info@doguscay.com.tr | YÜKSEK | https://www.doguscay.com.tr/iletisim
+Çaykur | caykur@caykur.gov.tr | YÜKSEK | https://www.caykur.gov.tr/Pages/Iletisim/IletisimBilgileri.aspx
+Beta Tea | beta@beta.com.tr | YÜKSEK | https://betatea.com/
+Doğadan | iletisimmerkezi@dogadan.com.tr | YÜKSEK | https://www.dogadan.com.tr/
+Juss (Oğuz Gıda) | info@oguzgida.com.tr | YÜKSEK | https://www.juss.com.tr/iletisim/
+Tamek | bilgi@tamekgrup.com.tr | YÜKSEK | https://www.tamek.com.tr/iletisim
+
+
+================ BULUNAMAYANLAR (senin incelemen için) ================
+
+Yemek:
+- Domino's Pizza Türkiye (site giriş sayfasına yönlendiriyor)
+- Little Caesars Türkiye (site bakımda)
+- Papa John's Türkiye (adres gizli; iletişim formu: https://www.papajohns.com.tr/contact)
+- Pizza Hut Türkiye (site yanıt vermedi)
+- Pizza Lazza (sadece form: https://pizzalazza.com.tr/bize-ulasin)
+- TAB Gıda (Burger King, Popeyes, Arby's, Usta Dönerci, Coffy) (site açılmadı)
+- McDonald's Türkiye
+- Baydöner (sadece yatırımcı ilişkileri adresi var: yatirimciiliskileri@baydoner.com)
+- Mado (sadece form ve telefon: https://mado.com.tr/iletisim/)
+- Ülker / Yıldız Holding (sadece form; Kurumsal İletişim Direktörlüğü tel: 0216 524 29 00)
+- Eti Gıda (site açılmadı)
+- Nestlé Türkiye (sadece form; tel: 0212 329 60 00)
+- Elit Çikolata, Züber, Haribo Türkiye, Algida (Unilever), Golf Dondurma, Sütaş, Yörükoğlu, Akşeker
+- Fellas Protein (adres sitede gizli: https://www.fellas.com.tr/iletisim)
+- Banvit (sadece bayi/şube adresleri var)
+- Erpiliç, Kerevitaş (SuperFresh; site besler.com.tr'ye yönleniyor), Mishka
+- Tat Gıda (sadece yatırımcı ilişkileri: yatirimciiliskileri@tat.com.tr)
+- Özsüt (sadece form: https://www.ozsut.com.tr/tr/iletisim)
+
+İçecek:
+- Red Bull Türkiye, Monster Energy Türkiye, PepsiCo Türkiye (Pepsi, 7Up, Lipton Ice Tea)
+- Dimes (sadece yatırımcı ilişkileri kişileri)
+- Beypazarı, Kızılay İçecek (sadece form: https://www.kizilayicecek.com.tr/iletisim), Uludağ İçecek, Erikli / Nestlé Waters
+- Buzdağı, Kınık, Karaca Hatır, Lipton Türkiye, Ofçay, Akmina
+- Aroma (sitede ayrı bir SPONSORLUK FORMU var: https://aroma.com.tr/iletisim/)
+
+
+================ LİSTEDEN ÇIKARILANLAR / BİRLEŞTİRİLENLER ================
+
+- Burger King, Popeyes, Arby's, Usta Dönerci, Coffy -> TAB Gıda altında tek mail
+- Kent -> Mondelez Türkiye
+- Burn, Damla Su, Fuse Tea, Cappy Pulpy -> Coca-Cola İçecek
+- Ice Tea Lipton -> PepsiCo Türkiye
+- Beypazarı Doğal Mineralli Su -> Beypazarı
+- Kızılay Maden Suyu + Kızılay İçecek Grubu -> Kızılay İçecek
+- Uludağ Gazoz -> Uludağ İçecek
+- Mey İçki -> çıkarıldı (alkollü içecek şirketi, öğrenci etkinliği sponsorluğu için uygun değil)
