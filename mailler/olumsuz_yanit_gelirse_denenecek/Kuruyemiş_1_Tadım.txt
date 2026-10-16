@@ -1,4 +1,4 @@
-BEKLİYOR: Kuruyemiş grubunda 2. sırada. Peyman markasından olumsuz yanıt gelirse (ve öncekiler de olumsuzsa) gönderilecek.
+BEKLİYOR: Kuruyemiş grubunda 1. yedek. Şu an yeri tutan: Peyman. Hepsinden olumsuz yanıt gelirse (ve önceki yedekler de olumsuzsa) gönderilecek.
 Kime: musteri.hizmetleri@tadim.com
 Konu: DEÜ CS-AI Hackathon (7 Kasım 2026) – Sponsorluk İş Birliği Talebi
 Not: müşteri hizmetleri

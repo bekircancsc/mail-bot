@@ -1,6 +1,6 @@
 kategori;marka;marka_in;mail;guven;not;durum
 Yemek;Dodo Pizza;Dodo Pizza'nın;hello@dodopizza.com.tr;YÜKSEK;;elle gönderildi
-Yemek;Tavuk Dünyası;Tavuk Dünyası'nın;info@tavukdunyasi.com;YÜKSEK;;iptal (kullanıcı listeden çıkardı)
+Yemek;Tavuk Dünyası;Tavuk Dünyası'nın;info@tavukdunyasi.com;YÜKSEK;;olumsuz yanıt
 Yemek;HD İskender;HD İskender'in;bilgi@hdiskender.com;YÜKSEK;;iptal (kullanıcı listeden çıkardı)
 Yemek;Bereket Döner;Bereket Döner'in;info@bereketdoner.com.tr;YÜKSEK;;iptal (kullanıcı listeden çıkardı)
 Yemek;Simit Sarayı;Simit Sarayı'nın;info@simitsarayi.com;YÜKSEK;;
@@ -28,7 +28,7 @@ Yemek;Kahve Diyarı;Kahve Diyarı'nın;info@kahvediyari.com;YÜKSEK;;
 İçecek;Niğde Gazozu;Niğde Gazozu'nun;info@nigdegazozu.com.tr;YÜKSEK;;iptal (İzmir'de varlığı belirsiz)
 İçecek;Çamlıca Gazoz;Çamlıca Gazoz'un;info@camlica.com.tr;YÜKSEK;;iptal (İzmir'de varlığı belirsiz)
 İçecek;Espressolab;Espressolab'ın;info@espressolab.com;YÜKSEK;;
-İçecek;Kahve Dünyası;Kahve Dünyası'nın;musterihizmetleri@kahvedunyasi.com;ORTA;müşteri hizmetleri;
+İçecek;Kahve Dünyası;Kahve Dünyası'nın;musterihizmetleri@kahvedunyasi.com;ORTA;müşteri hizmetleri;elle gönderildi
 İçecek;Starbucks Türkiye;Starbucks Türkiye'nin;info-tr@alshaya.com;YÜKSEK;alternatif: kurumsalsatis.tur@alshaya.com;
 İçecek;Gloria Jean's Coffees;Gloria Jean's Coffees'in;iletisim@gloriajeans.com.tr;YÜKSEK;alternatif: info@gloriajeans.com.tr;
 İçecek;Robert's Coffee;Robert's Coffee'nin;info@robertscoffee.com.tr;YÜKSEK;;iptal (İzmir'de varlığı belirsiz)
@@ -42,18 +42,18 @@ Yemek;Kahve Diyarı;Kahve Diyarı'nın;info@kahvediyari.com;YÜKSEK;;
 İçecek;Doğadan;Doğadan'ın;iletisimmerkezi@dogadan.com.tr;YÜKSEK;;
 İçecek;Juss;Juss'un;info@oguzgida.com.tr;YÜKSEK;Oğuz Gıda;
 İçecek;Tamek;Tamek'in;bilgi@tamekgrup.com.tr;YÜKSEK;;
-Yemek;Domino's Pizza;Domino's Pizza'nın;;YOK;;iptal (mail adresi yok)
+Yemek;Domino's Pizza;Domino's Pizza'nın;;YOK;;olumsuz yanıt
 Yemek;Little Caesars;Little Caesars'ın;;YOK;site bakımda;iptal (Türkiye'deki durumu belirsiz)
 Yemek;Papa John's;Papa John's'un;;YOK;form: https://www.papajohns.com.tr/contact;iptal (mail adresi yok)
 Yemek;Pizza Hut;Pizza Hut'ın;;YOK;;iptal (mail adresi yok)
 Yemek;Pizza Lazza;Pizza Lazza'nın;;YOK;form: https://pizzalazza.com.tr/bize-ulasin;iptal (İzmir'de şubesi yok)
-Yemek;TAB Gıda;TAB Gıda'nın;;YOK;Burger King, Popeyes, Arby's, Usta Dönerci, Coffy;iptal (mail adresi yok)
+Yemek;TAB Gıda;TAB Gıda'nın;;YOK;Burger King, Popeyes, Arby's, Usta Dönerci, Coffy;elle gönderildi (Burger King, Coffy dahil)
 Yemek;McDonald's Türkiye;McDonald's Türkiye'nin;;YOK;;iptal (mail adresi yok)
 Yemek;Baydöner;Baydöner'in;;YOK;sadece yatırımcı ilişkileri: yatirimciiliskileri@baydoner.com;iptal (mail adresi yok)
 Yemek;Mado;Mado'nun;;YOK;form: https://mado.com.tr/iletisim/;iptal (mail adresi yok)
 Yemek;Ülker;Ülker'in;;YOK;form var, Kurumsal İletişim tel: 0216 524 29 00;iptal (mail adresi yok)
-Yemek;Eti;Eti'nin;;YOK;;iptal (mail adresi yok)
-Yemek;Nestlé Türkiye;Nestlé Türkiye'nin;;YOK;form var, tel: 0212 329 60 00;iptal (mail adresi yok)
+Yemek;Eti;Eti'nin;;YOK;;elle gönderildi
+Yemek;Nestlé Türkiye;Nestlé Türkiye'nin;;YOK;form var, tel: 0212 329 60 00;elle gönderildi
 Yemek;Elit Çikolata;Elit Çikolata'nın;;YOK;;iptal (mail adresi yok)
 Yemek;Züber;Züber'in;;YOK;;iptal (mail adresi yok)
 Yemek;Haribo Türkiye;Haribo Türkiye'nin;;YOK;;iptal (mail adresi yok)
@@ -88,7 +88,7 @@ Yemek;Ankara Makarna;Ankara Makarna'nın;;YOK;listeye sonradan eklendi;elle gön
 İçecek;Obsesso;Obsesso'nun;;YOK;listeye sonradan eklendi;elle gönderildi
 Yemek;Tada;Tada'nın;;YOK;soğuk sandviç markası, listeye sonradan eklendi;elle gönderildi
 Yemek;Pasaport Pizza;Pasaport Pizza'nın;info@pasaportpizza.com;YÜKSEK;İzmir çıkışlı (1998), listeye sonradan eklendi;
-Yemek;Terra Pizza;Terra Pizza'nın;info@terrapizza.com.tr;YÜKSEK;İzmir çıkışlı (1995), listeye sonradan eklendi;
+Yemek;Terra Pizza;Terra Pizza'nın;info@terrapizza.com.tr;YÜKSEK;İzmir çıkışlı (1995), listeye sonradan eklendi;olumsuz yanıt
 Yemek;Lezita;Lezita'nın;info@lezita.com.tr;YÜKSEK;Abalıoğlu, Kemalpaşa/İzmir, listeye sonradan eklendi;
 Yemek;Kristal;Kristal'in;info@kristal.com.tr;YÜKSEK;İzmir zeytinyağı markası (1938), listeye sonradan eklendi;iptal (kullanıcı listeden çıkardı)
 Yemek;Euro Gıda;Euro Gıda'nın;info@eurogida.com.tr;YÜKSEK;fabrika Kemalpaşa/İzmir, merkez İstanbul, İEÜ ile iş birliği var, listeye sonradan eklendi;iptal (kullanıcı listeden çıkardı)
@@ -97,3 +97,9 @@ Yemek;Tariş;Tariş'in;info@tariszeytin.com.tr;YÜKSEK;Tariş Zeytin ve Zeytinya
 İçecek;Gönül Kahvesi;Gönül Kahvesi'nin;gonulkahvesi@gonulkahvesi.com.tr;YÜKSEK;İzmir çıkışlı (2002), listeye sonradan eklendi;iptal (kullanıcı listeden çıkardı)
 İçecek;Komşu Kahve;Komşu Kahve'nin;info@komsukahve.com;YÜKSEK;İzmir merkezli, listeye sonradan eklendi;iptal (kullanıcı listeden çıkardı)
 İçecek;Şaşal Su;Şaşal Su'yun;info@sasalsu.com;YÜKSEK;İzmir Büyükşehir şirketi İzdoğa, alternatif: info@izdoga.com.tr, listeye sonradan eklendi;
+Yemek;Burger King;Burger King'in;;YOK;TAB Gıda;elle gönderildi
+İçecek;Coffy;Coffy'nin;;YOK;TAB Gıda;elle gönderildi
+Yemek;Danone;Danone'nin;;YOK;;elle gönderildi
+Yemek;Komagene;Komagene'nin;;YOK;;elle gönderildi
+Yemek;KFC;KFC'nin;;YOK;;elle gönderildi
+Yemek;Kajun Korner;Kajun Korner'ın;;YOK;;elle gönderildi

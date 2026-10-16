@@ -36,12 +36,24 @@ tekrar = [m for m in durumlar if sum(m in g for g in gruplar.values()) > 1]
 if tekrar:
     sys.exit(f"urun_gruplari.csv: birden fazla grupta olan marka: {', '.join(tekrar)}")
 
-# yedek[marka] = (grup, gruptaki sırası, yeri tutan marka)
+def grup_sirasi(liste):
+    """(yeri tutanlar, sıradaki yedekler).
+    Elle gönderilmiş/kabul etmiş markalar cevap verene kadar yeri tutar; hiçbiri yoksa ilk boştaki marka gönderilir."""
+    adaylar = [m for m in liste if not durumlar[m].lower().startswith(YER_BOSALTAN)]
+    tutanlar = [m for m in adaylar if durumlar[m]]
+    bostakiler = [m for m in adaylar if not durumlar[m]]
+    if not tutanlar and bostakiler:
+        tutanlar = bostakiler[:1]
+        bostakiler = bostakiler[1:]
+    return tutanlar, bostakiler
+
+
+# yedek[marka] = (grup, gruptaki sırası, yeri tutan marka(lar))
 yedek = {}
 for grup, liste in gruplar.items():
-    adaylar = [m for m in liste if not durumlar[m].lower().startswith(YER_BOSALTAN)]
-    for sira, m in enumerate(adaylar[1:], 2):
-        yedek[m] = (grup, sira, adaylar[0])
+    tutanlar, sıradakiler = grup_sirasi(liste)
+    for sira, m in enumerate(sıradakiler, 1):
+        yedek[m] = (grup, sira, ", ".join(tutanlar))
 
 cikti = KLASOR / "mailler"
 for alt in ("mail_adresi_var", "mail_adresi_yok", YEDEK_ALT):
@@ -64,8 +76,8 @@ for i, m in enumerate(markalar, 1):
         grup, sira, tutan = yedek[m["marka"]]
         alt = YEDEK_ALT
         dosya_adi = f"{re.sub(r'[^0-9A-Za-zÇĞİÖŞÜçğıöşü]+', '_', grup)}_{sira}_{ad}.txt"
-        baslik = (f"BEKLİYOR: {grup} grubunda {sira}. sırada. {tutan} markasından olumsuz yanıt gelirse "
-                  f"(ve öncekiler de olumsuzsa) gönderilecek.\n") + baslik
+        baslik = (f"BEKLİYOR: {grup} grubunda {sira}. yedek. Şu an yeri tutan: {tutan}. Hepsinden olumsuz yanıt gelirse "
+                  f"(ve önceki yedekler de olumsuzsa) gönderilecek.\n") + baslik
     else:
         alt = "mail_adresi_var" if m["mail"] else "mail_adresi_yok"
         dosya_adi = f"{i:02d}_{ad}.txt"
@@ -84,10 +96,9 @@ hazir = len(markalar) - atlanan
 print(f"{hazir} mail hazırlandı: {len(satirlar)} gönderime hazır, {bekleyen_yedek} olumsuz yanıt bekleyen yedek, "
       f"{hazir - len(satirlar) - bekleyen_yedek} adressiz ({atlanan} marka atlandı: elle gönderildi, iptal veya olumsuz)")
 for grup, liste in sorted(gruplar.items()):
-    adaylar = [m for m in liste if not durumlar[m].lower().startswith(YER_BOSALTAN)]
-    if not adaylar:
+    tutanlar, sıradakiler = grup_sirasi(liste)
+    if not tutanlar:
         print(f"  {grup}: denenecek marka kalmadı")
         continue
-    tutan = adaylar[0]
-    durum = durumlar[tutan] or "gönderime hazır"
-    print(f"  {grup}: {tutan} ({durum}) | sıradakiler: {', '.join(adaylar[1:]) or '-'}")
+    tutan_yazi = ", ".join(f"{m} ({durumlar[m] or 'gönderime hazır'})" for m in tutanlar)
+    print(f"  {grup}: {tutan_yazi} | sıradakiler: {', '.join(sıradakiler) or '-'}")

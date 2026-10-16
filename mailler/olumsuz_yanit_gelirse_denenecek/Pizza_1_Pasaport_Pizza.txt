@@ -1,4 +1,4 @@
-BEKLİYOR: Pizza grubunda 2. sırada. Dodo Pizza markasından olumsuz yanıt gelirse (ve öncekiler de olumsuzsa) gönderilecek.
+BEKLİYOR: Pizza grubunda 1. yedek. Şu an yeri tutan: Dodo Pizza. Hepsinden olumsuz yanıt gelirse (ve önceki yedekler de olumsuzsa) gönderilecek.
 Kime: info@pasaportpizza.com
 Konu: DEÜ CS-AI Hackathon (7 Kasım 2026) – Sponsorluk İş Birliği Talebi
 Not: İzmir çıkışlı (1998), listeye sonradan eklendi
